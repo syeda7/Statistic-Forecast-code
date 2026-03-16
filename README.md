@@ -103,7 +103,7 @@ MA(12) is better because:
 
 ---
 
-# 🎯 Final Conclusion (Use this in presentation)
+# 🎯 Final Conclusion
 
 “The linear regression model predicts a lower closing price due to a downward trend in the overall dataset. However, the moving average forecasts are higher because they rely more on recent data. The 12-period moving average is likely the most accurate as it provides a balanced and stable estimate by smoothing short-term fluctuations while still reflecting current price behavior.”
 
