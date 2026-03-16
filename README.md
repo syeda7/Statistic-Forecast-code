@@ -51,7 +51,7 @@ Using last 12 values:
 
 ### Why:
 
-* Your regression slope is **negative (-0.428)** → shows downward trend
+* The regression slope is **negative (-0.428)** → shows downward trend
 * But regression forecast (**10.75**) is **much lower** than recent values (~15–16)
 * This suggests regression is **overfitting long-term decline**
 
